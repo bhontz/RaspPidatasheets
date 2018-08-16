@@ -7,7 +7,7 @@ During the week, "Google Sheets" was mentioned at multiple occassions.   I'm act
 The two main reasons why I like this module are (a) super easy to use in practice (b) it integrates python's data science module "pandas" which can serve as a stepping stone for future data science projects (e.g. applying statistical analysis of your Pi collected data).
 
 *One time setup steps*
-The one time setup is actually more difficult than using this module!  To get started you'll need to install the *datasheets* and *pandas* python packages on your Raspberry Pi.   I wrestled with this install at first as there are actually two versions of Python installed on our Picademy Pi's - python 2.7 and python3.5.   We used Thonny in our Picademy session, and Thonny users python3.5, so the instructions provided below pertain to setup for running these modules from Thonny.
+The one time setup is actually more difficult than using this module!  To get started you'll need to install the *datasheets* and *pandas* python packages on your Raspberry Pi.   I wrestled with this install at first as there are actually two versions of Python installed on our Picademy Pi's - python 2.7 and python3.5.   We used Thonny in our Picademy session, and Thonny uses python3.5, so the instructions provided below pertain to setup for running these modules from Thonny.
 
 So on to the setup!  From the "Terminal" (i.e. the black prompt icon on the toolbar) of the Raspberry Pi, type each of these lines in succession:
 
